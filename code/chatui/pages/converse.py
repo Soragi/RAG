@@ -36,7 +36,7 @@ from chatui.pages import utils
 
 _LOGGER = logging.getLogger(__name__)
 PATH = "/"
-TITLE = "PBM RAG Workshop"
+TITLE = "Igor's AWESOME RAG!!!"
 OUTPUT_TOKENS = 250
 MAX_DOCS = 5
 
